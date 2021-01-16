@@ -4,7 +4,6 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { MDXRenderer } from "gatsby-plugin-mdx"
 
 const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -25,10 +24,11 @@ const BlogPostTemplate = ({ data, location }) => {
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
         </header>
-        
+
         <section
+          dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
-        ><MDXRenderer>{post.body}</MDXRenderer></section>
+        ></section>
         <hr />
         <footer>
           <Bio />
@@ -46,14 +46,14 @@ const BlogPostTemplate = ({ data, location }) => {
         >
           <li>
             {previous && (
-              <Link to={"/" + previous.slug} rel="prev">
+              <Link to={previous.fields.slug} rel="prev">
                 ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
-              <Link to={"/" + next.slug} rel="next">
+              <Link to={next.fields.slug} rel="next">
                 {next.frontmatter.title} →
               </Link>
             )}
@@ -77,24 +77,31 @@ export const pageQuery = graphql`
         title
       }
     }
-    post: mdx(id: { eq: $id }) {
+    post: markdownRemark(id: { eq: $id }) {
       id
       excerpt(pruneLength: 160)
-      body
+      fields {
+        slug
+      }
+      html
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
         description
       }
     }
-    previous: mdx(id: { eq: $previousPostId }) {
-      slug
+    previous: markdownRemark(id: { eq: $previousPostId }) {
+      fields {
+        slug
+      }
       frontmatter {
         title
       }
     }
-    next: mdx(id: { eq: $nextPostId }) {
-      slug
+    next: markdownRemark(id: { eq: $nextPostId }) {
+      fields {
+        slug
+      }
       frontmatter {
         title
       }

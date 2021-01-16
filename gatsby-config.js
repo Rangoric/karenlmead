@@ -3,7 +3,7 @@ module.exports = {
     title: `Karen's Author Site`,
     author: {
       name: `Karen L Mead`,
-      summary: `who lives and works in Huntington Station with a husband and a daughter, both of whom eat less chocolet.`,
+      summary: `who lives and works in Huntington Station with a husband and a daughter, both of whom eat less chocolate.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
@@ -26,7 +26,6 @@ module.exports = {
         name: `assets`,
       },
     },
-    "gatsby-plugin-mdx",
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -34,7 +33,8 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 630,
+              maxWidth: 640,
+              linkImagesToOriginal: false,
             },
           },
           {

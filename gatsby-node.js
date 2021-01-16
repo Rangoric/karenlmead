@@ -11,13 +11,15 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const result = await graphql(
     `
       {
-        allMdx(
+        posts: allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: ASC }
           limit: 1000
         ) {
           nodes {
             id
-            slug
+            fields {
+              slug
+            }
           }
         }
       }
@@ -32,7 +34,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     return
   }
 
-  const posts = result.data.allMdx.nodes
+  const posts = result.data.posts.nodes
 
   // Create blog posts pages
   // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
@@ -42,9 +44,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     posts.forEach((post, index) => {
       const previousPostId = index === 0 ? null : posts[index - 1].id
       const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
-      console.log(post);
       createPage({
-        path: post.slug,
+        path: post.fields.slug,
         component: blogPost,
         context: {
           id: post.id,

@@ -6,6 +6,8 @@ description: "Urban Fantasy books by Karen L Mead"
 
 Check out Karen’s flagship series, [Demonic Café](https://www.amazon.com/gp/product/B079C8181P/?ie=UTF8&qid=1569632137&ref_=sr_1_7&refinements=p_27%3AKaren%20L.%20Mead&s=digital-text&sr=1-7&text=Karen%20L.%20Mead). The series is available for sale from most ebook vendors.
 
+![The Problem with Black Magic Cover](./The-Problem-with-Black-Magic-Final.jpg)
+
 [A high-schooler just wants to study and get into a good college. How is she supposed to find the time to serve a Demon Lord?](https://www.amazon.com/Problem-Black-Magic-Familiar-Book-ebook/dp/B008EDUPNW/ref=sr_1_1?qid=1569631494&refinements=p_27%3AKaren+L.+Mead&s=digital-text&sr=1-1&text=Karen+L.+Mead)
 
 Cassie divides her time between working a cash register and studying like crazy to get accepted to a top-tier university. She’s on track until one fateful day, a spell cast by one mysterious barista transforms her from a regular teen to a valuable familiar: a magical well a demon can tap. Now all the creatures of Hell are fighting over her, and the demon who bound her would rather serve lattes than deal with it. She’d be happy to protect herself, but how can she do that when she can’t even cast spells yet? Cassie had better figure it out fast, or else she has a better chance of becoming some demon’s little pet than making the Dean’s List.
@@ -15,6 +17,8 @@ Join Cassie in the first book of Demonic Café, a vibrant urban fantasy world of
 [Buy on Amazon](https://www.amazon.com/Problem-Black-Magic-Familiar-Book-ebook/dp/B008EDUPNW/ref=sr_1_1?dchild=1&keywords=The+Problem+with+Black+magic&qid=1598107644&sr=8-1)
 
 [Buy on another platform](https://books2read.com/u/b5ZDY6)
+
+![Succession of Witches Cover](./Succession-of-Witches-Final.jpg)
 
 [She’s supposed to be a witch. It would help if she could cast a spell.](https://www.amazon.com/Succession-Witches-Familiar-Book-2-ebook/dp/B00DEJA0EK/ref=sr_1_3?qid=1569631694&refinements=p_27%3AKaren+L.+Mead&s=digital-text&sr=1-3&text=Karen+L.+Mead)
 
@@ -28,6 +32,8 @@ Join Cassie in the second book of Demonic Café, an exciting urban fantasy world
 
 [Buy on another platform](https://books2read.com/u/mdlEYR)
 
+![Random Acts of Sorcery Cover](./Random-Acts-of-Sorcery-Final.jpg)
+
 [Young love is tough as it is. It’s even tougher when the guy you’re dating is technically your demonic master.](https://www.amazon.com/gp/product/B00M5CNQNY?notRedirectToSDP=1&ref_=dbs_mng_calw_2&storeType=ebooks)
 
 Cassie has mixed feelings about progressing her relationship with Sam, her sort-of boyfriend, coffee-shop co-worker and demonic master. She does have feelings for him, but their whole relationship is just this side of creepy. This situation is not helped by the fact that Sam’s fellow demons are very close to declaring him too dangerous to live.
@@ -39,6 +45,8 @@ Join Cassie in the third book of Demonic Café, a magical urban fantasy world fi
 [Buy on Amazon](https://www.amazon.com/gp/product/B00M5CNQNY?notRedirectToSDP=1&ref_=dbs_mng_calw_2&storeType=ebooks)
 
 [Buy on another platform](https://books2read.com/u/47XwvA)
+
+![Never Just One Apocalypse Cover](./Never-Just-One-Apocalypse-Final.jpg)
 
 [It’s time for Cassie to take the SATs. That is, if the world still exists by Saturday.](https://www.amazon.com/gp/product/B07XG7YL2R?notRedirectToSDP=1&ref_=dbs_mng_calw_3&storeType=ebooks)
 
@@ -53,6 +61,8 @@ Join Cassie and Sam in the fourth book of Demonic Café, an epic urban fantasy w
 [Buy on Amazon](https://www.amazon.com/gp/product/B07XG7YL2R?notRedirectToSDP=1&ref_=dbs_mng_calw_3&storeType=ebooks)
 
 ## Other Fantasy
+
+![Penguin of Fortune Cover](./PoF.jpg)
 
 [Badass bounty hunter Penelope Ripperson is tired of people going on and on about werewolves. What’s so great about wolves anyway? They’re just like dogs, only not as cute. In contrast, Pen’s pudgy bird form is both adorable and practical. Forget the lupine drama queens: Werepenguins are the new hotness in paranormal.](https://www.amazon.com/Penguin-Fortune-Karen-Mead-ebook/dp/B00TVO5DQW/ref=sr_1_6?qid=1569631858&refinements=p_27%3AKaren+L.+Mead&s=digital-text&sr=1-6&text=Karen+L.+Mead)
 

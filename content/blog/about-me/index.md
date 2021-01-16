@@ -6,6 +6,8 @@ description: "About Karen L Mead"
 
 Karen L. Mead is a multi-genre author and green tea enthusiast. The tea part isn’t terribly relevant right now, but we should probably talk about the author part.
 
+![Karen's Portrait](./karen-portrait.jpg "Karen with short hair. Her hair is much longer than this now– new glamour shot in progress.")
+
 Her primary genre is urban fantasy, where she writes about demons and vampires and all the trimmings in the Demonic Café series. Karen also publishes other urban fantasy works, like the parody novella Penguin of Fortune and an upcoming Mermaid book.
 
 Karen also writes sweet romance with the Traveling Billionaire series, because she never gets to go anywhere and enjoys living vicariously through her characters.
