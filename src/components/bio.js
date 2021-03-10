@@ -58,6 +58,7 @@ const Bio = () => {
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
             You should follow them on Twitter
           </a>
+          , or you can <a href={`mailto:kgellender@gmail.com`}>email her.</a>
         </p>
       )}
     </div>
