@@ -6,7 +6,7 @@ description: "Urban Fantasy books by Karen L Mead"
 
 Check out Karen’s flagship series, [Demonic Café](https://www.amazon.com/gp/product/B079C8181P/?ie=UTF8&qid=1569632137&ref_=sr_1_7&refinements=p_27%3AKaren%20L.%20Mead&s=digital-text&sr=1-7&text=Karen%20L.%20Mead). The series is available for sale from most ebook vendors.
 
-![The Problem with Black Magic Cover](./The-Problem-with-Black-Magic-Final.jpg)
+![The Problem with Black Magic Cover](./TPWBM-FINAL.jpg)
 
 [A high-schooler just wants to study and get into a good college. How is she supposed to find the time to serve a Demon Lord?](https://www.amazon.com/Problem-Black-Magic-Familiar-Book-ebook/dp/B008EDUPNW/ref=sr_1_1?qid=1569631494&refinements=p_27%3AKaren+L.+Mead&s=digital-text&sr=1-1&text=Karen+L.+Mead)
 
@@ -18,7 +18,7 @@ Join Cassie in the first book of Demonic Café, a vibrant urban fantasy world of
 
 [Buy on another platform](https://books2read.com/u/b5ZDY6)
 
-![Succession of Witches Cover](./Succession-of-Witches-Final.jpg)
+![Succession of Witches Cover](./SOW-FINAL.jpg)
 
 [She’s supposed to be a witch. It would help if she could cast a spell.](https://www.amazon.com/Succession-Witches-Familiar-Book-2-ebook/dp/B00DEJA0EK/ref=sr_1_3?qid=1569631694&refinements=p_27%3AKaren+L.+Mead&s=digital-text&sr=1-3&text=Karen+L.+Mead)
 
@@ -32,7 +32,7 @@ Join Cassie in the second book of Demonic Café, an exciting urban fantasy world
 
 [Buy on another platform](https://books2read.com/u/mdlEYR)
 
-![Random Acts of Sorcery Cover](./Random-Acts-of-Sorcery-Final.jpg)
+![Random Acts of Sorcery Cover](./RAOS-FINAL.jpg)
 
 [Young love is tough as it is. It’s even tougher when the guy you’re dating is technically your demonic master.](https://www.amazon.com/gp/product/B00M5CNQNY?notRedirectToSDP=1&ref_=dbs_mng_calw_2&storeType=ebooks)
 
@@ -46,7 +46,7 @@ Join Cassie in the third book of Demonic Café, a magical urban fantasy world fi
 
 [Buy on another platform](https://books2read.com/u/47XwvA)
 
-![Never Just One Apocalypse Cover](./Never-Just-One-Apocalypse-Final.jpg)
+![Never Just One Apocalypse Cover](./NJOA-FINAL.jpg)
 
 [It’s time for Cassie to take the SATs. That is, if the world still exists by Saturday.](https://www.amazon.com/gp/product/B07XG7YL2R?notRedirectToSDP=1&ref_=dbs_mng_calw_3&storeType=ebooks)
 
