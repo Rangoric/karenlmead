@@ -60,6 +60,12 @@ Join Cassie and Sam in the fourth book of Demonic Café, an epic urban fantasy w
 
 [Buy on Amazon](https://www.amazon.com/gp/product/B07XG7YL2R?notRedirectToSDP=1&ref_=dbs_mng_calw_3&storeType=ebooks)
 
+![Always A Golem, Never A Bride](./Gellender_AlwaysAGolem_Ebook.jpg)
+
+
+[Some book in a series](http://www.amazon.com)
+
+
 ## Other Fantasy
 
 ![Penguin of Fortune Cover](./PoF.jpg)
